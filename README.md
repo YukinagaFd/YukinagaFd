@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yukinaga fudo
+- 👋 Hi, I’m Yukinaga fudo (Yuk/Yuko)
 - 👀 I’m interested in Ruby, Python;
 - 🌱 I’m currently learning java;
 - 💞️ I’m looking to collaborate on ...
